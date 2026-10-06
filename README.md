@@ -1,5 +1,3 @@
-## About me 👋
-
 # 💫 About Me:
 # 👋 Hi, I'm **Nunna Surendra**<br><br>🎓 **3rd-Year AI & ML Student** | 🤖 **AI/ML Enthusiast** | ⚙️ **MLOps Learner**<br><br>🚀 Building practical **AI/ML projects** and learning to take models from **development → deployment**.<br><br>### 🛠️ Tech Stack<br><br>🐍 Python • 🤖 Machine Learning • 👁️ Computer Vision • 🧠 Reinforcement Learning<br>⚡ FastAPI • 🐳 Docker • 📊 MLflow • ☁️ AWS • 💻 Git/GitHub<br><br>### 🔥 Projects<br><br>🖼️ Image Restoration • 🗺️ RL Route Optimization • 🎬 Movie Recommendation • 🐳 Docker Gateway<br><br>### 🎯 Currently Learning<br><br>⚙️ MLOps • 🔄 CI/CD • ☁️ Cloud Deployment • ☸️ Kubernetes<br><br>💼 **Open to AI/ML • MLOps • Machine Learning Engineering Internships**<br><br>> 🚀 **Build. Deploy. Learn. Improve.**<br>
 
